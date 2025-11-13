@@ -1,4 +1,4 @@
-# Taskify App Design
+# BizQuits App Design
 
 ## Prerequisites
 
